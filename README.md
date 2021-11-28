@@ -42,7 +42,7 @@ outputs. See corrected code and the referenced code below. The corrections chang
 
 ![VBA_code_Steps_1B_2A.png](https://github.com/Robertfnicholson/Stock-analysis/blob/afff29f5c918d6a06f7dfff6666593c240b3a133/VBA_code_Steps_1B_2A.png)
 
-![VBA_code_Step_4.png](https://github.com/Robertfnicholson/Stock-analysis/blob/afff29f5c918d6a06f7dfff6666593c240b3a133/VBA_code_Step_4.png)
+![VBA_code_Step_4.png](https://github.com/Robertfnicholson/Stock-analysis/blob/64f4c6aacabbb6f4c98f1f8b18ca8a0fe3bd9067/VBA_code_Step_4.png)
 
 ## Results
 I was able to achieve the objective of refactoring the code to shorten the compiling time while still 
